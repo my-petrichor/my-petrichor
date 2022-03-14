@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<summary><strong>:label: Check my current status</strong></summary>
+My name is **_Junlin Liu_**. I'm a Fullstack software engineer.
 
+<summary><strong>:label: Check my current status</strong></summary>
+<details close>
 - :man_scientist: Trying to become a programming master.
 - :books: Have been studying hard.
 - :thinking: I am currently working as a backend developer.

@@ -2,7 +2,7 @@
 
 My name is **_Junlin Liu_**. I'm a Fullstack software engineer.
 
-### my current status
+### Current status
   
 - :man_scientist: Trying to become a programming master.
 - :books: Have been studying hard.

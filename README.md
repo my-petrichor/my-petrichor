@@ -10,8 +10,8 @@ My name is **_Junlin Liu_**. I'm a Fullstack software engineer.
 - :computer: Thinking, Coding, Writing
 
 <p align="center">
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=my-Sakura&count_private=true&show_icons=true"/>
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-Sakura&hide=html,jupyter+notebook&count_private=true&show_icons=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=my-petrichor&count_private=true&show_icons=true"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=my-petrichor&hide=html,jupyter+notebook&count_private=true&show_icons=true"/>
 </p>
 
 ### &#x270d; Blog & Writing
